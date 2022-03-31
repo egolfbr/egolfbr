@@ -13,6 +13,7 @@ I have many different interests such as digital signal processing, image process
 
 ## Projects 
 Here you can find projects that I really enjoyed. 
+
 **[Keras Model Visualizer](https://github.com/egolfbr/keras_visualizer)**<br>
 **[CNN Radar Classification](https://github.com/egolfbr/cnn-classifier)**<br>
 **[Keras XML Model Builder](https://github.com/egolfbr/keras-xml-model-builder)**<br>
