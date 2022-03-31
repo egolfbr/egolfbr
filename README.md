@@ -20,7 +20,7 @@ Here you can find projects that I really enjoyed.
 
 Other projects that I am working on that do not have repositories (yet): 
 - Battlebot
-- Music Sequencer (Similar to [Gridi](http://www.yuvalgerstein.com/gridi/)
+- Music Sequencer (Similar to [Gridi](http://www.yuvalgerstein.com/gridi/))
 
 Projects that I would like to work on: 
 - Breadboard Robot: A small robotics tutorial built around a half-size breadboard
