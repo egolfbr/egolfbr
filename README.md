@@ -18,6 +18,14 @@ Here you can find projects that I really enjoyed.
 **[CNN Radar Classification](https://github.com/egolfbr/cnn-classifier)**<br>
 **[Keras XML Model Builder](https://github.com/egolfbr/keras-xml-model-builder)**<br>
 
+Notes on projects:
+
+- Keras model visualizer has a few bugs with the distribution which I am currently trying to iron out. Running your model through it may generate some errors like "InputLayer not supported" but it should still output your model. 
+
+- CNN Radar Classification runs with clean data. That is, there is no noise. This means that the model trains to 100% accuracy which is unrealistic. Try adding white noise to be more realistic. 
+
+- Keras XML builder is a work in progress and cannot handle complex models. 
+
 Other projects that I am working on that do not have repositories (yet): 
 - Battlebot
 - Music Sequencer (Similar to [Gridi](http://www.yuvalgerstein.com/gridi/))
