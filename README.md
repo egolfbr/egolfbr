@@ -9,7 +9,7 @@ My most used skills are:
   5. C++/C
   6. Arduino/Raspberry Pi
 
-I have many different interests such as digital signal processing, image processing, FPGAs and embedded systems.
+I have many different interests such as digital signal processing, image processing, FPGAs and embedded systems, and machine learning.
 
 ## Projects 
 Here you can find projects that I really enjoyed. 
