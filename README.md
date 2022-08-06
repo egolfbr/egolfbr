@@ -17,7 +17,7 @@ Here you can find projects that I really enjoyed.
 **[Keras Model Visualizer](https://github.com/egolfbr/keras_visualizer)**<br>
 **[CNN Radar Classification](https://github.com/egolfbr/cnn-classifier)**<br>
 **[Keras XML Model Builder](https://github.com/egolfbr/keras-xml-model-builder)**<br>
-**[stock Market Comparison App](https://github.com/egolfbr/stock_portfolio_comparison)**<br>
+**[Stock Market Comparison App](https://github.com/egolfbr/stock_portfolio_comparison)**<br>
 
 Notes on projects:
 
