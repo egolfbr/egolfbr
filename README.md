@@ -3,10 +3,10 @@
 I am an electrical engineering graduate student at Miami University - OH. I am researching in the areas of electronic warfare and machine learning.
 My most used skills are: 
   1. Python
-  2. Git 
+  2. Java 
   3. MATLAB
-  4. Java
-  5. C++/C
+  4. C++/C
+  5. Git
   6. Arduino/Raspberry Pi
 
 I have many different interests such as digital signal processing, image processing, FPGAs and embedded systems, and machine learning.
