@@ -18,6 +18,7 @@ Here you can find projects that I really enjoyed.
 **[CNN Radar Classification](https://github.com/egolfbr/cnn-classifier)**<br>
 **[Keras XML Model Builder](https://github.com/egolfbr/keras-xml-model-builder)**<br>
 **[Stock Market Comparison App](https://github.com/egolfbr/stock_portfolio_comparison)**<br>
+**[Custom Machine Learning Algorithms](https://github.com/egolfbr/custom_ML)**<br>
 
 Notes on projects:
 
