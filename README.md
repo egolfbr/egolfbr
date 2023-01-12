@@ -29,7 +29,7 @@ Notes on projects:
 - Keras XML builder is a work in progress and cannot handle complex models. 
 
 Other projects that I am working on that do not have repositories: 
-- Thesis Research in ML and Electronic Warfare (not public yet).
+- Thesis Research in ML and Electronic Warfare (not public :( ).
 
 Projects that I would like to work on: 
 - Breadboard Robot: A small robotics tutorial built around a half-size breadboard
