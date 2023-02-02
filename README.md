@@ -1,6 +1,6 @@
 ## About Me 
 
-I am an electrical engineering graduate student at Miami University - OH. I am researching in the areas of electronic warfare and machine learning.
+I graduated from Miami University - OH with a BS and MS in Electrical Engineering. I am researching in the areas of electronic warfare and machine learning.
 My most used skills are: 
   1. Python
   2. Java 
